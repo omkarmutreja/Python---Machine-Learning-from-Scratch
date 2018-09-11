@@ -6,4 +6,9 @@ Jupter Notebook and Python 3.6
 
 ## Contents 
 1. Data Preprocessing
+  1.1 Get the dataset
+  1.2 Missing data
+  1.3 Categorical data
+  1.4 Splitting the data into training and testing datasets
+  1.5 Feature scaling
 2. Simple Linear Regression
