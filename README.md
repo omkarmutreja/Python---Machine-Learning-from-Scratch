@@ -12,3 +12,4 @@ Jupter Notebook and Python 3.6
   D. Splitting the data into training and testing datasets
   E. Feature scaling
 2. Simple Linear Regression
+3. Multiple Linear Regression
