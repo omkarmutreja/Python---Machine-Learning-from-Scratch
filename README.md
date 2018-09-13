@@ -9,3 +9,6 @@ Jupter Notebook and Python 3.6
 2. Simple Linear Regression
 3. Multiple Linear Regression
 4. Polynomial Regression
+5. Support Vector Regression
+6. Decision Tree Regression
+7. Random Forest Regression
