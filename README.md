@@ -13,3 +13,4 @@ Jupter Notebook and Python 3.6
   E. Feature scaling
 2. Simple Linear Regression
 3. Multiple Linear Regression
+4. Polynomial Regression
