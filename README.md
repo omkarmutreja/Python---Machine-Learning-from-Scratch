@@ -6,6 +6,7 @@ Jupter Notebook and Python 3.6
 
 ## Contents 
 A.  Regression
+
 1.  Data Preprocessing
 2.  Simple Linear Regression
 3.  Multiple Linear Regression
@@ -13,7 +14,9 @@ A.  Regression
 5.  Support Vector Regression
 6.  Decision Tree Regression
 7.  Random Forest Regression
+
 B.  Classification
+
 8.  Logistic Regression
 9.  K-Nearest Neighbors(KNN)
 10. Support Vector Machine
