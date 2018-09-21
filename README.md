@@ -28,3 +28,4 @@ B.  Classification
 C. Evaluating and Improving Model Performance
 
 1. K-fold Cross Validation
+2. Grid Search
