@@ -29,3 +29,8 @@ C. Evaluating and Improving Model Performance
 
 1. K-fold Cross Validation
 2. Grid Search
+
+D. Clustering
+
+1. K-Means clustering
+2. Hierarchical clustering
