@@ -34,3 +34,5 @@ D. Clustering
 
 1. K-Means clustering
 2. Hierarchical clustering
+
+E. Apriori
