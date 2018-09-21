@@ -24,3 +24,7 @@ B.  Classification
 5. Naive Bayes
 6. Decision Tree
 7. Random Forest
+
+C. Evaluating and Improving Model Performance
+
+1. K-fold Cross Validation
