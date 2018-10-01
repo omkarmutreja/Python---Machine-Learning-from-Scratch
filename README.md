@@ -36,3 +36,5 @@ D. Clustering
 2. Hierarchical clustering
 
 E. Apriori
+
+F. Principal Component Analysis
